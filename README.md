@@ -4,7 +4,9 @@
 The **HR Analytics Dashboard** is an interactive Tableau visualization designed to analyze and monitor key **workforce metrics** such as attrition rate, employee demographics, salary distribution, and job satisfaction levels.  
 This project helps **HR managers, executives, and decision-makers** gain actionable insights into employee behavior, workforce structure, and potential risk areas.  
 
----
+## 📊 Dashboard Preview  
+![HR Dashboard](TableauHR-Dashboard.JPG)  
+---------------
 
 ## 🎯 Objectives  
 - Analyze **employee attrition patterns** across departments, age groups, and education levels.  
@@ -13,11 +15,7 @@ This project helps **HR managers, executives, and decision-makers** gain actiona
 - Create a **centralized dashboard** that highlights both **macro (overall workforce)** and **micro (department/role-level)** insights.  
 
 ---
---
 
-## 📊 Dashboard Preview  
-![HR Dashboard](TableauHR-Dashboard.JPG)  
----------------
 
 ## 📌 Key Features  
 
@@ -41,10 +39,6 @@ This project helps **HR managers, executives, and decision-makers** gain actiona
 - **Job Satisfaction Rating** → Heatmap reveals job roles with **low to moderate satisfaction** (notably Sales Executives).  
 - **Attrition by Gender & Age Group** → Donut charts show **higher attrition in females under 25 and 25–34 age groups** compared to males.  
 
----
-
-## 📊 Dashboard Preview  
-![HR Dashboard](TableauHR-Dashboard.JPG)  
 
 ---
 
